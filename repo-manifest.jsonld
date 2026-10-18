@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fastai/nbdev/commit/a336173c2698d8a21c5ee908656a88800325f125",
       "git:hexsha": "a336173c2698d8a21c5ee908656a88800325f125",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fastai/nbdev/commit/0c2343f73324dad5312dadf04996c6013034585b",
